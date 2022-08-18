@@ -140,7 +140,7 @@ Passcode: 94kwiv
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="XiI-GT-nxF" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="31.884057971014496" y="746.65178571428567"/>
+            <point key="canvasLocation" x="765" y="88"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="VZY-RL-JbR">
@@ -215,7 +215,7 @@ Passcode: 94kwiv
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="bCB-WQ-kCF" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="31.884057971014496" y="1417.6339285714284"/>
+            <point key="canvasLocation" x="764" y="781"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="h9B-bM-jaC">
@@ -282,7 +282,7 @@ Passcode: 94kwiv
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Tqs-nQ-Whf" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-684.05797101449275" y="2978.5714285714284"/>
+            <point key="canvasLocation" x="1630" y="1616"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="s2n-xi-0qC">
@@ -369,7 +369,7 @@ Passcode: 94kwiv
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="oPq-MU-r8h" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="62" y="2807"/>
+            <point key="canvasLocation" x="2486" y="759"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="DbS-Pe-NQg">
@@ -430,8 +430,8 @@ Passcode: 94kwiv
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Hi ramisha" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Au-C1-XbY">
-                                <rect key="frame" x="119" y="688" width="81" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="heyyyyyyyy sophia" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Au-C1-XbY">
+                                <rect key="frame" x="119" y="688" width="144" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -445,7 +445,7 @@ Passcode: 94kwiv
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="RLr-ut-5Jw" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="169.56521739130437" y="3563.1696428571427"/>
+            <point key="canvasLocation" x="2329" y="1736"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="tXH-8s-lEn">
@@ -510,7 +510,7 @@ Passcode: 94kwiv
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Or6-cY-wgv" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="170" y="2142"/>
+            <point key="canvasLocation" x="1668" y="781"/>
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
